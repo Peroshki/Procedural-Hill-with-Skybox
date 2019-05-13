@@ -8,3 +8,9 @@ Playable at https://peroshki.github.io/Procedural-Hill-with-Skybox/
 | ------------- |:-------------:|
 | Mouse Wheel      | Adjust depth of mesh |
 | Space      | Generate new mesh     |
+
+## Screenshots
+
+![View 1](Screenshots/view1.png)
+
+![View 2](Screenshots/view2.png)
