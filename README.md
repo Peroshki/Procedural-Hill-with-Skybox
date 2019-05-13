@@ -4,5 +4,5 @@ A simple Unity3D scene which uses a noise function to generate a hill mesh, and 
 ## Controls
 | Key        | Action           |
 | ------------- |:-------------:|
-| Mouse Wheel      | Adjust the depth of the mesh |
+| Mouse Wheel      | Adjust depth of mesh |
 | Space      | Generate new mesh     |
