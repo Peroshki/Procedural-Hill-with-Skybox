@@ -3,6 +3,8 @@ A simple Unity3D scene which uses a noise function to generate a hill mesh, and 
 
 Playable at https://peroshki.github.io/Procedural-Hill-with-Skybox/
 
+All of the shaders and scripts used in this project are included in the Assets foler.
+
 ## Controls
 | Key        | Action           |
 | ------------- |:-------------:|
